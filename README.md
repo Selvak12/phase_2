@@ -1,2 +1,2 @@
-# phase_2
+# project
 Phase_2submission
